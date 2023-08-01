@@ -1,0 +1,8 @@
+pandas
+driverlessai
+matplotlib
+scipy
+scikit-learn
+datatable
+qtoml
+ipykernel
